@@ -54,10 +54,10 @@
 
 ## 📸 Screenshots
 - Product Page
-  ![Product Page](public/Screenshot 2025-08-30 033609.png)
+  ![Product Page](public/homePage.png)
 
 - Cart Page
-  ![Cart Page](public/Screenshot 2025-08-30 033644.png)
+  ![Cart Page](public/cartPage1.png)
 
 ---
 
