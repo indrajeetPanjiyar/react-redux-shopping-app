@@ -53,14 +53,11 @@
 ---
 
 ## 📸 Screenshots
-  ### Product Page
-  ![Product Page](/public/homePage.png)
+- Product Page
+  ![Product Page](public/homePage.png)
 
-  ### Cart Page
-  ![Cart Page](/public/cartPage1.png)
-
-  ### Cart  Page
-  ![Cart Page](/public/cartPage2.png)
+- Cart Page
+  ![Cart Page](public/cartPage1.png)
 
 ---
 
